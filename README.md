@@ -1,9 +1,9 @@
 # Projects Repository 🚀
 Welcome to my Projects repository! This is my portfolio, where I showcase my work in Data Science, Machine Learning, and Analytics. Here, you'll find notebooks, reports, and implementations based on datasets from Kaggle and other sources.
 # Repository Structure
-📁 data_science/ – Data Science projects, including EDA, data visualization, and statistical analysis.
+📁 Data-Science/ – Data Science projects, including EDA, data visualization, and statistical analysis.
 
-📁 machine_learning/ – Machine Learning models, experiments, and fine-tuning approaches.
+📁 Machine-Learning/ – Machine Learning models, experiments, and fine-tuning approaches.
 
 📁 reports/ – PDF reports summarizing findings and insights from projects.
 

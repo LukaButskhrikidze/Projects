@@ -12,6 +12,8 @@ Welcome to my Projects repository! This is my portfolio, where I showcase my wor
 # 🚀 Projects Included
 Netflix Churn Prediction	
 
+Wine Clustering
+
 Customer Churn
 
 Credit Card Fraud Detection
@@ -30,7 +32,7 @@ Version Control: Git, GitHub
 # 📌 How to Use
 1. Clone the repository
 
-git clone https://github.com/your-username/projects.git
+git clone https://github.com/LukaButskhrikidze/projects.git
 
 2. Navigate into the repository
 

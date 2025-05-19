@@ -1,5 +1,6 @@
 # Projects Repository 🚀
 Welcome to my Projects repository! This is my portfolio, where I showcase my work in Data Science, Machine Learning, and Analytics. Here, you'll find notebooks, reports, and implementations based on datasets from Kaggle and other sources.
+
 # Repository Structure
 📁 Data-Science/ – Data Science projects, including EDA, data visualization, and statistical analysis.
 
@@ -7,7 +8,7 @@ Welcome to my Projects repository! This is my portfolio, where I showcase my wor
 
 📁 reports/ – PDF reports summarizing findings and insights from projects.
 
-📁 datasets/ – Datasets used in projects (or links to sources if too large).
+📁 AI Agents/ – Automated Agents
 
 # 🚀 Projects Included
 Netflix Churn Prediction	
